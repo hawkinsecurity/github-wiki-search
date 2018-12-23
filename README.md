@@ -1,1 +1,1 @@
-# github-wiki-search
+# Editable Github Wiki Search
